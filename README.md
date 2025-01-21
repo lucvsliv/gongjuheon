@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gongjuheon&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucvsliv&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gongjuheon&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucvsliv&layout=compact&theme=tokyonight)
